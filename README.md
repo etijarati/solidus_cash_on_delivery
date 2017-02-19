@@ -1,13 +1,7 @@
-Spree::CashOnDelivery
+Cash on Delivery
 =====================
 
-Introduction goes here.
-
-
-Example
-=======
-
-Example goes here.
+Add `gem 'solidus_cash_on_delivery', github: 'kierr/solidus_cash_on_delivery'` to your Gemfile.
 
 Testing
 -------
