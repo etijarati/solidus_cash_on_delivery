@@ -1,6 +1,6 @@
 module Spree::CashOnDelivery
   class Engine < Rails::Engine
-    engine_name 'spree_cash_on_delivery'
+    engine_name 'solidus_cash_on_delivery'
 
     config.autoload_paths += %W(#{config.root}/lib)
 
